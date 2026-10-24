@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Dennis Bunner
 
-<!--
-**bunnerdennis3-hue/bunnerdennis3-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity & Computer Forensics student at Stark State College (A.A.S., expected May 2027) and Treasurer of the HTCIA Cyber Club. Currently studying for CompTIA Security+.
 
-Here are some ideas to get you started:
+I build tools for my own learning, using AI (Claude Code) as a development partner while I write the specs, set the security rules, and review the results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+**Security+ PBQ Trainer**
+Offline practice for the performance-based questions on the Security+ SY0-701 exam. 123 original questions across 9 topics, six interactive question styles, and no accounts, internet, or tracking.
+
+**Student Dashboard**
+A single-user, security-first career and learning dashboard built for my path as a cybersecurity student. It turns my resume, classes, and evolving interests into a visual career map with cert recommendations, job-skill trends, and "teach it back" study checks. No social layer, no shared data.
+
+*Both repositories are private while in development. I'm happy to walk through either one.*
+
+## Find me
+
+- [LinkedIn](https://www.linkedin.com/in/dennis-bunner)
+- [TryHackMe](https://tryhackme.com/p/dbunner0625)
+
+Open to a summer 2027 IT or cybersecurity internship.
